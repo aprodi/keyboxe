@@ -1,6 +1,6 @@
 keyboxe
 =======
-![Logo](./olivetti/logo2-keyboxe.jpg)
+![Logo](logo2-keyboxe.jpg)
 
 boxing gloves for coders
 
