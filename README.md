@@ -1,8 +1,9 @@
 keyboxe
 =======
+boxing gloves for coders
+
 ![Logo](logo2-keyboxe.jpg)
 
-boxing gloves for coders
 
 just another custom mechanical split keyboard, with a funny shape
 
